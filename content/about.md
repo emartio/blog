@@ -27,6 +27,5 @@ Los invito a recorrer el blog, acá van a poder ir viendo mi evolución. Desde c
 Espero que lo disfruten tanto como yo. 
 
 Cualquier comentario, ¡no duden en ponerse en contacto!
-
-PROBANDOOO 
+ 
 
