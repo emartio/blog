@@ -1,0 +1,69 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "@emartio"
+
+copyright = "Copyright © 2020 - 2021, Esteban Martínez; all rights reserved."
+paginate = 2
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-XXXX"
+DisqusShortname = ""
+theme = "hugo-theme-chunky-poster"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 0
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "Esteban Martinez"
+  description = "Blog de Esteban Martínez."
+  homepageImage = "/images/homepage-image.jpg"
+  dateFormat = "January 2, 2006"
+  share = true
+  showLanguageSwitcher = false
+
+  # Custom CSS and JS. Relative to /static/css and /static/js respectively.
+  customCSS = []
+  customJS = []
+
+  [params.social]
+    rss = false
+    email = "estebandatam@gmail.com"
+    twitter = "https://twitter.com/emartio"
+    github = "https://github.com"
+    linkedin = "https://www.linkedin.com/in/emartio/"
+    
+
+  [params.prismJS]
+    enable = true
+    theme = ""
+
+  [params.commento]
+    enable = true
+    url = "https://commento.io"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
