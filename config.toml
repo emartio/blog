@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "en-us"
 title = "@emartio"
 
-copyright = "Copyright © 2020 - 2021, Esteban Martínez; all rights reserved."
+copyright = "Copyright © 2021, Esteban Martínez; all rights reserved."
 paginate = 2
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
