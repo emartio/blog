@@ -18,7 +18,7 @@ categories = [
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 images = [
-    "markdown-syntax.jpg",
+    "imagenpostblog.jpg",
 ]
 +++
 
