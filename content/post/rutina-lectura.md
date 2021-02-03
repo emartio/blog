@@ -41,17 +41,17 @@ Aquí van, los 5 sitios que me generan mayor interés:
 
 1. [`Medium`] (https://medium.com/) - Me gusta llamarle "el blog de blogs". Es eso, un gran hub donde cualquiera podría postear acerca de sus intereses. Una vez hecha la registración, te dan 3 artículos gratis al mes para leer. La subscripcion es relativamente barata y vale la pena.
 
-2. `FiveThirtyEight` - Si te interesa la política y los deportes, es el sitio que queres ver. Todos sus posts son basados en analítica y sus proyecciones son alucinantes. 
+2. [`FiveThirtyEight`] (https://fivethirtyeight.com/) - Si te interesa la política y los deportes, es el sitio que queres ver. Todos sus posts son basados en analítica y sus proyecciones son alucinantes. 
 
-3. `BBC Future` - Artículos de interés con una perspectiva a futuro.
+3. [`BBC Future`] (https://www.bbc.com/future/) - Artículos de interés con una perspectiva a futuro.
 
-4. `Aeon` - Muy parecido a BBC Future, pero con un temática más amplia. Recomiendo para la mañana de un sábado. 
+4. [`Aeon`] (https://aeon.co/)- Muy parecido a BBC Future, pero con un temática más amplia. Recomiendo para la mañana de un sábado. 
 
-5. `OurWorldinData` - Últimamente muy conocido porque tienen una API que se utiliza en muchos otros sitios para graficar los casos de COVID y el estado de vacunación a nivel mundial. Tienen un montón de posts de analitica. 
+5. [`OurWorldinData`] (https://ourworldindata.org/) - Últimamente muy conocido porque tienen una API que se utiliza en muchos otros sitios para graficar los casos de COVID y el estado de vacunación a nivel mundial. Tienen un montón de posts de analitica. 
 
 La yapa: 
 
-* `Datacamp` - Sitio increíble donde aprender R, SQL y Python, se pueden hacer carreras de anlítica y programación. Los profesores son excelentes y es recomendado por muchos profesionales. 
+* [`Datacamp`] (https://learn.datacamp.com/) - Sitio increíble donde aprender R, SQL y Python, se pueden hacer carreras de anlítica y programación. Los profesores son excelentes y es recomendado por muchos profesionales. 
 
 
 
