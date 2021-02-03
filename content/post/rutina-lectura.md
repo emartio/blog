@@ -3,7 +3,7 @@ authors = [
     "Esteban Martinez",
 ]
 title = "Mi rutina mañanera de lectura"
-date = "2020-08-25"
+date = "2018-08-25"
 description = "Recomendaciones de lectura para fortalezer el autoaprendizaje."
 tags = [
     "medium",
