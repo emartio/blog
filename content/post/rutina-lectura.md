@@ -39,7 +39,7 @@ La gran ventaja de internet y un dato no menor, es que la mayoría de los sitios
 
 Aquí van, los 5 sitios que me generan mayor interés: 
 
-1. `Medium` - Me gusta llamarle "el blog de blogs". Es eso, un gran hub donde cualquiera podría postear acerca de sus intereses. Una vez hecha la registración, te dan 3 artículos gratis al mes para leer. La subscripcion es relativamente barata y vale la pena.
+1. [`Medium`] (https://medium.com/) - Me gusta llamarle "el blog de blogs". Es eso, un gran hub donde cualquiera podría postear acerca de sus intereses. Una vez hecha la registración, te dan 3 artículos gratis al mes para leer. La subscripcion es relativamente barata y vale la pena.
 
 2. `FiveThirtyEight` - Si te interesa la política y los deportes, es el sitio que queres ver. Todos sus posts son basados en analítica y sus proyecciones son alucinantes. 
 
