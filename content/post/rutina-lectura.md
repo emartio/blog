@@ -4,7 +4,7 @@ authors = [
 ]
 title = "Mi rutina mañanera de lectura"
 date = "2018-08-25"
-description = "Recomendaciones de lectura para fortalecer el autoaprendizaje."
+description = "Recomendaciones de autoaprendizaje."
 tags = [
     "medium",
     "lectura",
